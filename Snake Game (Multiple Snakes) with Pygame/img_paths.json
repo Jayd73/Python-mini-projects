@@ -1,0 +1,71 @@
+{
+  "food": {
+    "apple": "D:\\Jayesh\\Python\\Python Projects\\Snake Game\\Graphics\\Food\\Fruits\\apple.png",
+    "banana": "D:\\Jayesh\\Python\\Python Projects\\Snake Game\\Graphics\\Food\\Fruits2\\banana.png",
+    "orange": "D:\\Jayesh\\Python\\Python Projects\\Snake Game\\Graphics\\Food\\Fruits2\\orange.png",
+    "cherry": "D:\\Jayesh\\Python\\Python Projects\\Snake Game\\Graphics\\Food\\Fruits2\\red-cherry.png",
+    "blackberry": "D:\\Jayesh\\Python\\Python Projects\\Snake Game\\Graphics\\Food\\Fruits2\\blackberry.png",
+    "strawberry": "D:\\Jayesh\\Python\\Python Projects\\Snake Game\\Graphics\\Food\\Fruits2\\strawberry.png",
+    "plum": "D:\\Jayesh\\Python\\Python Projects\\Snake Game\\Graphics\\Food\\Fruits2\\plum.png"
+  },
+  "snakes": {
+    "purple_snake": {
+      "head_up": "D:\\Jayesh\\Python\\Python Projects\\Snake Game\\Graphics\\Snakes\\purple_snake\\head_up.png",
+      "body_vert": "D:\\Jayesh\\Python\\Python Projects\\Snake Game\\Graphics\\Snakes\\purple_snake\\body_vertical.png",
+      "turn_top_rt": "D:\\Jayesh\\Python\\Python Projects\\Snake Game\\Graphics\\Snakes\\purple_snake\\body_tr.png",
+      "tail_up": "D:\\Jayesh\\Python\\Python Projects\\Snake Game\\Graphics\\Snakes\\purple_snake\\tail_up.png",
+      "head_up_dead": "D:\\Jayesh\\Python\\Python Projects\\Snake Game\\Graphics\\Snakes\\purple_snake\\head_up_dead.png"
+    },
+    "pink_snake": {
+      "head_up": "D:\\Jayesh\\Python\\Python Projects\\Snake Game\\Graphics\\Snakes\\pink_snake\\head_up.png",
+      "body_vert": "D:\\Jayesh\\Python\\Python Projects\\Snake Game\\Graphics\\Snakes\\pink_snake\\body_vertical.png",
+      "turn_top_rt": "D:\\Jayesh\\Python\\Python Projects\\Snake Game\\Graphics\\Snakes\\pink_snake\\body_tr.png",
+      "tail_up": "D:\\Jayesh\\Python\\Python Projects\\Snake Game\\Graphics\\Snakes\\pink_snake\\tail_up.png",
+      "head_up_dead": "D:\\Jayesh\\Python\\Python Projects\\Snake Game\\Graphics\\Snakes\\pink_snake\\head_up_dead.png"
+    },
+    "orange_snake": {
+      "head_up": "D:\\Jayesh\\Python\\Python Projects\\Snake Game\\Graphics\\Snakes\\orange_snake\\head_up.png",
+      "body_vert": "D:\\Jayesh\\Python\\Python Projects\\Snake Game\\Graphics\\Snakes\\orange_snake\\body_vertical.png",
+      "turn_top_rt": "D:\\Jayesh\\Python\\Python Projects\\Snake Game\\Graphics\\Snakes\\orange_snake\\body_tr.png",
+      "tail_up": "D:\\Jayesh\\Python\\Python Projects\\Snake Game\\Graphics\\Snakes\\orange_snake\\tail_up.png",
+      "head_up_dead": "D:\\Jayesh\\Python\\Python Projects\\Snake Game\\Graphics\\Snakes\\orange_snake\\head_up_dead.png"
+    },
+    "brown_snake": {
+      "head_up": "D:\\Jayesh\\Python\\Python Projects\\Snake Game\\Graphics\\Snakes\\brown_snake\\head_up.png",
+      "body_vert": "D:\\Jayesh\\Python\\Python Projects\\Snake Game\\Graphics\\Snakes\\brown_snake\\body_vertical.png",
+      "turn_top_rt": "D:\\Jayesh\\Python\\Python Projects\\Snake Game\\Graphics\\Snakes\\brown_snake\\body_tr.png",
+      "tail_up": "D:\\Jayesh\\Python\\Python Projects\\Snake Game\\Graphics\\Snakes\\brown_snake\\tail_up.png",
+      "head_up_dead": "D:\\Jayesh\\Python\\Python Projects\\Snake Game\\Graphics\\Snakes\\brown_snake\\head_up_dead.png"
+    },
+    "azure_snake": {
+      "head_up": "D:\\Jayesh\\Python\\Python Projects\\Snake Game\\Graphics\\Snakes\\azure_snake\\head_up.png",
+      "body_vert": "D:\\Jayesh\\Python\\Python Projects\\Snake Game\\Graphics\\Snakes\\azure_snake\\body_vertical.png",
+      "turn_top_rt": "D:\\Jayesh\\Python\\Python Projects\\Snake Game\\Graphics\\Snakes\\azure_snake\\body_tr.png",
+      "tail_up": "D:\\Jayesh\\Python\\Python Projects\\Snake Game\\Graphics\\Snakes\\azure_snake\\tail_up.png",
+      "head_up_dead": "D:\\Jayesh\\Python\\Python Projects\\Snake Game\\Graphics\\Snakes\\azure_snake\\head_up_dead.png"
+    },
+    "teal_snake": {
+      "head_up": "D:\\Jayesh\\Python\\Python Projects\\Snake Game\\Graphics\\Snakes\\teal_snake\\head_up.png",
+      "body_vert": "D:\\Jayesh\\Python\\Python Projects\\Snake Game\\Graphics\\Snakes\\teal_snake\\body_vertical.png",
+      "turn_top_rt": "D:\\Jayesh\\Python\\Python Projects\\Snake Game\\Graphics\\Snakes\\teal_snake\\body_tr.png",
+      "tail_up": "D:\\Jayesh\\Python\\Python Projects\\Snake Game\\Graphics\\Snakes\\teal_snake\\tail_up.png",
+      "head_up_dead": "D:\\Jayesh\\Python\\Python Projects\\Snake Game\\Graphics\\Snakes\\teal_snake\\head_up_dead.png"
+    },
+    "dark_snake": {
+      "head_up": "D:\\Jayesh\\Python\\Python Projects\\Snake Game\\Graphics\\Snakes\\dark_snake\\head_up.png",
+      "body_vert": "D:\\Jayesh\\Python\\Python Projects\\Snake Game\\Graphics\\Snakes\\dark_snake\\body_vertical.png",
+      "turn_top_rt": "D:\\Jayesh\\Python\\Python Projects\\Snake Game\\Graphics\\Snakes\\dark_snake\\body_tr.png",
+      "tail_up": "D:\\Jayesh\\Python\\Python Projects\\Snake Game\\Graphics\\Snakes\\dark_snake\\tail_up.png",
+      "head_up_dead": "D:\\Jayesh\\Python\\Python Projects\\Snake Game\\Graphics\\Snakes\\dark_snake\\head_up_dead.png"
+    },
+    "red_snake": {
+      "head_up": "D:\\Jayesh\\Python\\Python Projects\\Snake Game\\Graphics\\Snakes\\red_snake\\head_up.png",
+      "body_vert": "D:\\Jayesh\\Python\\Python Projects\\Snake Game\\Graphics\\Snakes\\red_snake\\body_vertical.png",
+      "turn_top_rt": "D:\\Jayesh\\Python\\Python Projects\\Snake Game\\Graphics\\Snakes\\red_snake\\body_tr.png",
+      "tail_up": "D:\\Jayesh\\Python\\Python Projects\\Snake Game\\Graphics\\Snakes\\red_snake\\tail_up.png",
+      "head_up_dead": "D:\\Jayesh\\Python\\Python Projects\\Snake Game\\Graphics\\Snakes\\red_snake\\head_up_dead.png"
+    }
+  },
+  "obstacle": "D:\\Jayesh\\Python\\Python Projects\\Snake Game\\Graphics\\Obstacles\\crate.png",
+  "font": "D:\\Jayesh\\Python\\Python Projects\\Snake Game\\Fonts\\LilitaOne-Regular.ttf"
+}

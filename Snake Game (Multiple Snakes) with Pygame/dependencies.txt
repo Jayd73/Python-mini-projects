@@ -1,0 +1,2 @@
+Python 3.8.5
+Pygame 2.1.2 (SDL 2.0.18, Python 3.8.5)
